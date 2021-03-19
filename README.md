@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianiSN
 - 🤩 My passion is front-end development but I enjoy learning new things and being challenged
-- 🌱 I’m currently looking to expand my career and  opportunities to grow as a developer
+- 🌱 I’m currently looking to expand my career, knowledge and skills to grow as a Software Engineer
 - 🏐 During my free time a like to watch movies and play volleyball
 - 💻 React, Redux, JS, TypeScript, Python, HTML, CSS, SASS, Sketch, ExtJS ...
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/dianasanabrianieto/)
